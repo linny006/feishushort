@@ -3,7 +3,7 @@ from fastapi.responses import RedirectResponse
 
 app = FastAPI(title="飞书文档跳转服务")
 
-FEISHU_URL = "https://vcn6qkr6n31j.feishu.cn/wiki/EW4IwwfmGiUB1Pk1rV2cUziUnve?from=from_copylink"
+FEISHU_URL = "hhttps://iqzeljuzeco.feishu.cn/wiki/LmpcwCrImiQ1ANkqw6ScRB6dnJd"
 
 @app.get("/")
 async def root():
